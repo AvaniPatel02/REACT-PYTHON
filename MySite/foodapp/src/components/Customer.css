@@ -1,0 +1,131 @@
+.faqimage {
+    position: relative;
+    background-image: url('C:\Users\Victus\avni-patel-inte\MySite\foodapp\public\faqimage.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(252, 248, 248);
+    text-align: left;
+    padding: 150px 0px 30px 0px;
+
+}
+
+.faqimage h1 {
+
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 50px;
+}
+
+.faqimage p {
+
+    margin-top: 0;
+}
+
+h3 {
+    font-size: medium;
+}
+.xyz {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.customer {
+    background-color: white;
+}
+
+.row1 {
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+
+
+.contect-right {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+.contect-right div {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    transition: transform 0.2s ease-in-out;
+}
+
+.contect-right div:last-child {
+    border-bottom: none;
+}
+
+.contect-right h4 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.contect-right p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+.contect-right div:hover {
+    transform: translateY(-5px);
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.contect-right div:hover h4 {
+    color: #007bff;
+}
+
+.contect-right div:hover p {
+    color: #333;
+}
+
+.contect-right h4::before {
+    content: "➤ ";
+    color: #007bff;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .contect-right {
+        padding: 15px;
+    }
+
+    .contect-right h4 {
+        font-size: 1rem;
+    }
+
+    .contect-right p {
+        font-size: 0.9rem;
+    }
+}
+
+.contect-left div{
+  height: 100%;
+}
+.contect-right div {
+    border-bottom: 1px solid #ddd;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.mno{
+    padding-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}

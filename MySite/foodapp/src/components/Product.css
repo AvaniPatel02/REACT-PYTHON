@@ -1,0 +1,60 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    height: 100%;
+    background-color:rgb(234, 251, 126);
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+  }
+  .card-body {
+    padding: 15px;
+  }
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .card-text {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  .button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    
+  }
+  .product {
+    text-align: center;          
+    font-size: 3rem;            
+    font-weight: bold;           
+    color: #333;                 
+    margin-bottom: 20px;       
+    text-transform: uppercase;   
+    letter-spacing: 2px;    
+    font-family: 'Arial', sans-serif; 
+  }
+  .cta-button:hover {
+    background-color: #218838;
+  }
+  .pqr{
+    margin-top: 0px; 
+  }
+#bgc{
+  background-color: white;
+}

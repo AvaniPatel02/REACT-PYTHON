@@ -1,0 +1,90 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:rgb(192, 236, 248);
+}
+.about{
+  background-color: white;
+  height: 100vh;
+}
+.carousel {
+  margin: 30px auto;
+  max-width: 90%; 
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.carousel img {
+  height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.carousel-caption {
+  padding: 20px;
+  border-radius: 5px;
+  color: #fff;
+  text-align: top;
+}
+.carousel-caption p,
+.carousel-caption ul {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.carousel-caption ul {
+  padding-left: 20px;
+  text-align: right;
+  margin-bottom:80px;
+  justify-content: center;
+  color: white;
+}
+.carousel-caption ul li {
+  list-style: disc;
+  margin-bottom: 5px;
+  margin-left: 500px;
+  text-align: center;
+}
+.pic1{
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.pic2{
+  text-align: center;
+  margin-bottom:0px;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+}
+.pic2-h{
+  margin: 100px;
+  color: black;
+  font-weight: bold;
+}
+.pic3{
+  color: #fff;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-left: 50px;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.pic3-h{
+  color: #fff;
+  text-align: left;
+  padding-bottom: 100px;
+  justify-content: center;
+}
+.pic4-h{
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  padding-left:500px;
+}

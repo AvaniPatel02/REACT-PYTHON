@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "shortDescription": "Rich and creamy curry made with paneer.",
+    "longDescription": "Paneer Butter Masala is a classic North Indian dish made with succulent paneer cubes in a rich, creamy tomato-based gravy, spiced with aromatic spices and garnished with butter. It is typically served with naan, roti, or rice.",
+    "image": "/paneer-butter-masala.jpg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Paneer", "Butter", "Tomato", "Cream", "Spices"],
+    "weight": "250g",
+    "manufacturer": "TasteBuds Indian Cuisine",
+    "keyFeatures": "Rich and creamy, Vegetarian, Aromatic spices, Butter garnish",
+    "reviews": [
+      {
+        "username": "JohnDoe",
+        "rating": 4,
+        "review": "Delicious and creamy! Perfectly spiced."
+      },
+      {
+        "username": "JaneSmith",
+        "rating": 5,
+        "review": "One of the best paneer butter masala I've ever had!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pav Bhaji",
+    "shortDescription": "A spicy blend of vegetables served with buttery pav bread.",
+    "longDescription": "Pav Bhaji is a famous street food of Mumbai, consisting of a spicy vegetable mash cooked with Indian spices, served with buttery toasted pav bread. It's a flavorful and filling snack that can be enjoyed any time of the day.",
+    "image": "/pav-bhaji.jpg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Vegetables", "Spices", "Pav bread", "Butter"],
+    "weight": "300g",
+    "manufacturer": "Spicy Street Food",
+    "keyFeatures": ["Vegetarian", "Street food favorite", "Spicy and flavorful"],
+    "reviews": [
+      {
+        "username": "Foodie123",
+        "rating": 4,
+        "review": "Great taste but a little too spicy for me."
+      },
+      {
+        "username": "Mumbaikar",
+        "rating": 5,
+        "review": "Authentic Mumbai taste! Love it!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pani Puri",
+    "shortDescription": "Crispy puris filled with tangy and spicy flavored water.",
+    "longDescription": "Pani Puri is a beloved Indian street food consisting of crispy puris filled with spiced potato, chickpeas, and tangy flavored water. It's served as a fun and interactive snack, perfect for a quick bite.",
+    "image": "/pani-puri.jpg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Puris", "Potatoes", "Chickpeas", "Tamarind water", "Spices"],
+    "weight": "150g",
+    "manufacturer": "Taste of India",
+    "keyFeatures": [" Crispy ", " Spicy ", " Tangy"],
+    "reviews": [
+      {
+        "username": "StreetFoodFan",
+        "rating": 4,
+        "review": "A bit messy but absolutely tasty!"
+      },
+      {
+        "username": "CrunchyLover",
+        "rating": 5,
+        "review": "So crispy and tangy! A perfect treat."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Thepla",
+    "shortDescription": "Traditional Gujarati flatbread with spices and fenugreek.",
+    "longDescription": "Thepla is a spiced flatbread from Gujarat made with whole wheat flour, fresh fenugreek leaves, and a mix of flavorful spices, perfect for a quick snack or travel food. It is often enjoyed with yogurt or pickle.",
+    "image": "/thepla.jpeg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Whole wheat flour", "Fenugreek", "Spices", "Oil"],
+    "weight": "200g",
+    "manufacturer": "Thepla Delights",
+    "keyFeatures": ["Traditional", "Healthy", "Spicy", "Herb-rich"],
+    "reviews": [
+      {
+        "username": "SaffronSpice",
+        "rating": 4,
+        "review": "Great taste but could use a little more spice."
+      },
+      {
+        "username": "VeganChef",
+        "rating": 5,
+        "review": "Perfect for a quick and healthy meal."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tomato Soup",
+    "shortDescription": "Smooth and creamy soup made with fresh tomatoes.",
+    "longDescription": "Tomato Soup is a comforting and delicious soup made with fresh, ripe tomatoes blended into a creamy consistency, seasoned with herbs and served hot. It's a perfect starter or light meal.",
+    "image": "/tomato-soup.jpeg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Tomatoes", "Cream", "Herbs", "Spices"],
+    "weight": "250ml",
+    "manufacturer": "Soup Master",
+    "keyFeatures": ["Vegan-friendly", "Rich and creamy", "Herb-infused"],
+    "reviews": [
+      {
+        "username": "HealthyEater",
+        "rating": 5,
+        "review": "Absolutely delicious and healthy!"
+      },
+      {
+        "username": "SoupLover",
+        "rating": 4,
+        "review": "A great starter, but could be a bit more flavorful."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pizza",
+    "shortDescription": "Cheesy pizza topped with fresh vegetables.",
+    "longDescription": "Pizza is a popular dish made with a dough base, smothered in tangy tomato sauce, layered with melted cheese, and topped with fresh, crunchy vegetables. It's a classic favorite for any meal.",
+    "image": "/pizza.jpg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Pizza dough", "Cheese", "Vegetables", "Tomato sauce"],
+    "weight": "350g",
+    "manufacturer": "Italian Delights",
+    "keyFeatures": ["Cheesy", "Vegetarian", "Classic favorite"],
+    "reviews": [
+      {
+        "username": "CheeseLover",
+        "rating": 5,
+        "review": "Cheese overload! Absolutely amazing."
+      },
+      {
+        "username": "PizzaFan",
+        "rating": 4,
+        "review": "A bit too cheesy for my taste, but still delicious."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Chole Kulche",
+    "shortDescription": "Spicy chickpea curry with fluffy kulchas.",
+    "longDescription": "Chole Kulche is a North Indian delicacy made with a spicy chickpea curry served alongside soft, fluffy kulcha bread. It's often eaten as a street food breakfast or lunch.",
+    "image": "/chole-kulche.jpg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Chickpeas", "Kulcha", "Spices", "Onions", "Tomatoes"],
+    "weight": "350g",
+    "manufacturer": "Desi Bites",
+    "keyFeatures": ["Spicy", "Vegetarian", "Street food favorite"],
+    "reviews": [
+      {
+        "username": "CurryLover",
+        "rating": 4,
+        "review": "Nice, but could have more punch in the spice."
+      },
+      {
+        "username": "KulchaFan",
+        "rating": 3,
+        "review": "Absolutely mouthwatering and satisfying."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dosa",
+    "shortDescription": "Thin and crispy South Indian crepe.",
+    "longDescription": "Dosa is a traditional South Indian dish made from fermented rice and lentil batter, served with coconut chutney and sambar for a wholesome meal. It's a great option for breakfast or dinner.",
+    "image": "/dosa.png",
+    "price": "Price: 300Rs",
+    "ingredients": ["Rice flour", "Lentil flour", "Coconut", "Spices"],
+    "weight": "200g",
+    "manufacturer": "South Indian Delights",
+    "keyFeatures": ["Crispy", "Fermented", "Wholesome meal"],
+    "reviews": [
+      {
+        "username": "SouthIndianFan",
+        "rating": 5,
+        "review": "The perfect dosa, crispy and flavorful."
+      },
+      {
+        "username": "BreakfastLover",
+        "rating": 4,
+        "review": "Love it with chutney and sambar!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Biryani",
+    "shortDescription": "Fragrant rice dish with spices and vegetables.",
+    "longDescription": "Biryani is a flavorful rice dish cooked with aromatic spices, layered with vegetables or meat, and served with raita or gravy on the side. It's a complete meal that's both filling and flavorful.",
+    "image": "/biryani.jpeg",
+    "price": "Price: 300Rs",
+    "ingredients": ["Rice", "Spices", "Vegetables", "Meat (optional)"],
+    "weight": "400g",
+    "manufacturer": "Royal Kitchen",
+    "keyFeatures": ["Fragrant", "Spicy", "Complete meal"],
+    "reviews": [
+      {
+        "username": "RiceLover",
+        "rating": 5,
+        "review": "Aromatic and delicious! A true delight."
+      },
+      {
+        "username": "BiryaniFanatic",
+        "rating": 4,
+        "review": "Great taste, but could use more veggies."
+      }
+    ]
+  }
+]

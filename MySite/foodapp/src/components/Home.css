@@ -1,0 +1,25 @@
+.home{
+    position: relative;
+    background-image: url('C:\Users\Victus\avni-patel-inte\MySite\foodapp\public\homebg.jpg') ; 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: rgb(247, 244, 244); 
+    text-align: left;
+    padding: 20px;
+    padding-top: 200px; 
+     padding-left: 300px;
+  }
+
+.container {
+    margin-top: 5px;
+    padding: 2rem; 
+    background-color:white;
+  }
+  .cta-button{
+    position: absolute;
+    bottom: 150px;
+    left:50px;
+}
